@@ -16,6 +16,7 @@ $ ls
 
 $ cd ssh-premium
 
+##### Jangan Lupa Like Share And Follow Me Klik Kotak Dibawah Tulisan Follow me Dibawah ini
 
 <p align="center">
   Follow Me On
