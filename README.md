@@ -1,6 +1,20 @@
-# ssh-premium
+##### ssh-premium
 
+Cara Installnya Ketikkan Ditermux
 
+$ pkg install update
+
+$ pkg install upgrade
+
+$ pkg install git
+
+$ apt update
+
+$ git clone https://github.com/kiplymacho/ssh-premium
+
+$ ls
+
+$ cd ssh-premium
 
 
 <p align="center">
