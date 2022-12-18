@@ -20,10 +20,10 @@ $ cd ssh-premium
 
  <p align="center">
     
-  🎁 𝙎𝙚𝙜𝙚𝙧𝙖 𝘼𝙢𝙗𝙞𝙡 🎁
-</p>
+  🔊 𝙎𝙚𝙜𝙚𝙧𝙖 𝘼𝙢𝙗𝙞𝙡 🎁🎉👇
+ʜᴀᴅɪᴀʜ ᴘᴇɴɢɢᴜɴᴀ ʙᴀʀᴜ 𝑺𝒏𝒂𝒄𝒌 𝑽𝒊𝒅𝒆𝒐 
 
-  <p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="ikwaibulldog://home?invitationCodeInfo=951127175&amp;source=web_share">𝗞𝗟𝗜𝗞 𝗗𝗜𝗦𝗜𝗡𝗜 𝗦𝗘𝗞𝗔𝗥𝗔𝗡𝗚 </a></p>
+<a href="ikwaibulldog://home?invitationCodeInfo=951127175&source=web_share">➡️ 𝗞𝗟𝗜𝗞 𝗗𝗜𝗦𝗜𝗡𝗜 𝗦𝗘𝗞𝗔𝗥𝗔𝗡𝗚 ⬅️</a>
 
   <p align="center">
 
